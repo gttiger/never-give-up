@@ -7,7 +7,7 @@ from collections import Counter
 import pandas as pd
 
 
-df1 = pd.read_excel(r'E:\山地\整理第一把\对比.xlsx')
+df1 = pd.read_excel(r'对比.xlsx')
 df2 = pd.read_excel(r'E:\山地\整理第一把\对比单标签.xlsx')
 df5 =pd.read_excel(r'E:\山地\整理第一把\对比单测试标签.xlsx')
 df4 =  pd.read_excel(r'E:\山地\整理第一把\对比测试.xlsx')
